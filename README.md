@@ -4,7 +4,7 @@
 ![Platform - Windows](https://img.shields.io/badge/platform-Windows-blue?logo=windows&logoColor=white)  
 ![Platform - Mac](https://img.shields.io/badge/platform-Mac-orange?logo=apple)  
 ![Platform - VPS](https://img.shields.io/badge/platform-Windows%20VPS-blueviolet)  
-![Last Updated](https://img.shields.io/badge/updated-December%2002,%202025-informational)  
+![Last Updated](https://img.shields.io/badge/updated-January%2001,%202026-informational)  
 ![Community](https://img.shields.io/badge/community-active-brightgreen)
 
 A **Telegram DM Bot** is a powerful automation tool that lets you **send bulk direct messages** to all members in a Telegram group, including **private groups**. It’s designed to help you **reach thousands of potential users instantly**, making it one of the fastest and most effective tools for direct communication.
@@ -63,7 +63,7 @@ A **Telegram DM Bot** is a powerful automation tool that lets you **send bulk di
 
 ## 🎥 Demo Videos
 
-**Full Demo – Telegram DM Bot 2025**  
+**Full Demo – Telegram DM Bot 2026**  
 See how the bot runs smoothly across multiple accounts:  
 [![Watch the QQDM Reel](https://img.shields.io/badge/Watch%20Reel-Vimeo-blue?logo=vimeo)](https://vimeo.com/1022057984?share=copy)  
 **Caption**: Telegram Bulk messaging made easy.
